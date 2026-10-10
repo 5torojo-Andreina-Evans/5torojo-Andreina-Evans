@@ -14,3 +14,6 @@ P=10(11-10) = 10$
 P=an-n(n-1)
 5. Reflexiona: ¿Por qué el precio no aumenta siempre lo mismo? ¿Qué pasaría si el patrón cambiara?
 Porque cada arepa adicional cuesta menos. Hay un descuento por volumen. Si el patrón cambiaría, también cambiara la fórmula y los precios. 
+Actividad 9/10 
+https://www.tinkercad.com/things/64prEKRWheI-circuito-2-leds-interruptor?sharecode=bhM-s7hnKOZMYdHiP4Zy8WzQ28MVlZoqr3we7YXZmOI
+https://www.tinkercad.com/things/23nXWQj3H0q-circuito-6-leds-con-pulsador?sharecode=Wd0m1EyHrqjemecAVYZmpaCd6ODPNq_ts-5-TB5kOr0
