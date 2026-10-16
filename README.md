@@ -17,3 +17,18 @@ Porque cada arepa adicional cuesta menos. Hay un descuento por volumen. Si el pa
 Actividad 9/10 
 https://www.tinkercad.com/things/64prEKRWheI-circuito-2-leds-interruptor?sharecode=bhM-s7hnKOZMYdHiP4Zy8WzQ28MVlZoqr3we7YXZmOI
 https://www.tinkercad.com/things/23nXWQj3H0q-circuito-6-leds-con-pulsador?sharecode=Wd0m1EyHrqjemecAVYZmpaCd6ODPNq_ts-5-TB5kOr0
+Mapa de rutas
+Caracas – Valencia: 150 km  
+Valencia – Barquisimeto: 200 km  
+Barquisimeto – Maracaibo: 400 km  
+Barquisimeto – Coro: 120 km  
+Maracaibo – Coro: 180 km  
+Caracas
+* A Valencia: 0 + 150 km = 150 km.  
+* A Barquisimeto: 150 km + 200 km = 350 km.  
+* A Maracaibo: 350 km + 400 km = 750 km.  
+* A Coro: 350 km + 120 km = 470 km.  
+Desde Coro: 470 + 180 km = 650 km.
+La ruta más corta es Caracas - Valencia.
+- Barquisimeto - Coro - Maracaibo, que son 650 km.
+Intuimos que debía ser más cerca de Barquisimeto a Maracaibo y la ruta iba a ser más corta, ya que era directo, pero resulta que no es así, sino que tuvimos que pasar por Coro para llegar a Maracaibo.
