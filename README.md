@@ -1,5 +1,3 @@
-
-
 <!--
 -Andreina-Evans/5torojo-Andreina-Evans.
 primera clase: creacion del repositorio 
@@ -16,7 +14,9 @@ P=an-n(n-1)
 Porque cada arepa adicional cuesta menos. Hay un descuento por volumen. Si el patrón cambiaría, también cambiara la fórmula y los precios. 
 Actividad 9/10 
 https://www.tinkercad.com/things/64prEKRWheI-circuito-2-leds-interruptor?sharecode=bhM-s7hnKOZMYdHiP4Zy8WzQ28MVlZoqr3we7YXZmOI
-https://www.tinkercad.com/things/23nXWQj3H0q-circuito-6-leds-con-pulsador?sharecode=Wd0m1EyHrqjemecAVYZmpaCd6ODPNq_ts-5-TB5kOr0
+![image alt]((https://github.com/5torojo-Andreina-Evans/5torojo-Andreina-Evans/blob/d34cf79d92deb0a9f574134499ac5f847a464f2c/Circuito%206%20leds%20con%20pulsador%20-%20Tinkercad.pdf)https://www.tinkercad.com/things/23nXWQj3H0q-circuito-6-leds-con-pulsador?sharecode=Wd0m1EyHrqjemecAVYZmpaCd6ODPNq_ts-5-TB5kOr0)
+(https://www.tinkercad.com/things/23nXWQj3H0q-circuito-6-leds-con-pulsador?sharecode=Wd0m1EyHrqjemecAVYZmpaCd6ODPNq_ts-5-TB5kOr0)
+
 Mapa de rutas
 Caracas – Valencia: 150 km  
 Valencia – Barquisimeto: 200 km  
