@@ -12,6 +12,7 @@ P=10(11-10) = 10$
 P=an-n(n-1)
 5. Reflexiona: ¿Por qué el precio no aumenta siempre lo mismo? ¿Qué pasaría si el patrón cambiara?
 Porque cada arepa adicional cuesta menos. Hay un descuento por volumen. Si el patrón cambiaría, también cambiara la fórmula y los precios. 
+
 Actividad 9/10 
 Mapa de rutas
 Caracas – Valencia: 150 km  
@@ -28,9 +29,14 @@ Desde Coro: 470 + 180 km = 650 km.
 La ruta más corta es Caracas - Valencia.
 - Barquisimeto - Coro - Maracaibo, que son 650 km.
 Intuimos que debía ser más cerca de Barquisimeto a Maracaibo y la ruta iba a ser más corta, ya que era directo, pero resulta que no es así, sino que tuvimos que pasar por Coro para llegar a Maracaibo.
+(https://www.tinkercad.com/things/64prEKRWheI-circuito-2-leds-interruptor?sharecode=bhM-s7hnKOZMYdHiP4Zy8WzQ28MVlZoqr3we7YXZmOI)
+<img width="583" height="471" alt="Screenshot 2026-10-17 at 1 03 06 PM" src="https://github.com/user-attachments/assets/35edb7a8-3c08-4eb0-b59a-e02792e8385c" />
 
-Actividad 16/10:Circuito de dos LED con interruptor
-Enlace del circuito: https://www.tinkercad.com/things/64prEKRWheI-circuito-2-leds-interruptor?sharecode=bhM-s7hnKOZMYdHiP4Zy8WzQ28MVlZoqr3we7YXZmOI
-<img width="479" height="483" alt="Screenshot 2026-10-17 at 12 10 46 PM" src="https://github.com/user-attachments/assets/dbfbea05-75e5-4cdb-91de-1fadd067e3dd" />
+(https://www.tinkercad.com/things/23nXWQj3H0q-circuito-6-leds-con-pulsador?sharecode=Wd0m1EyHrqjemecAVYZmpaCd6ODPNq_ts-5-TB5kOr0)Actividad
+
+<img width="522" height="493" alt="Screenshot 2026-10-17 at 1 04 41 PM" src="https://github.com/user-attachments/assets/4aa44d3e-2d8f-445f-a66d-3441bb0584a3" />
+
+16/10:Circuito de dos LED con interruptor
+Enlace del circuito: (https://www.tinkercad.com/things/eRIaRHKJlew-actividad-1610-salon-de-estudio?sharecode=L1dsZITkQh3N34sBstNOBnA4E0QJtHzjbHW-qvgSwjQ)<img width="479" height="483" alt="Screenshot 2026-10-17 at 12 10 46 PM" src="https://github.com/user-attachments/assets/dbfbea05-75e5-4cdb-91de-1fadd067e3dd" />
 
 
