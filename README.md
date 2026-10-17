@@ -1,6 +1,8 @@
 
 -Andreina-Evans/5torojo-Andreina-Evans.
+
 primera clase: creacion del repositorio 
+
 segunda clase: actividad 02/10 
 1. Encuentra el patrón que sigue el precio. ¿Cuánto aumenta por cada arepa adicional?
 El precio aumenta cada vez menos : +8$, +$6,+4$,+2$
@@ -37,6 +39,19 @@ Intuimos que debía ser más cerca de Barquisimeto a Maracaibo y la ruta iba a s
 <img width="522" height="493" alt="Screenshot 2026-10-17 at 1 04 41 PM" src="https://github.com/user-attachments/assets/4aa44d3e-2d8f-445f-a66d-3441bb0584a3" />
 
 16/10:Circuito de dos LED con interruptor
-Enlace del circuito: (https://www.tinkercad.com/things/eRIaRHKJlew-actividad-1610-salon-de-estudio?sharecode=L1dsZITkQh3N34sBstNOBnA4E0QJtHzjbHW-qvgSwjQ)<img width="479" height="483" alt="Screenshot 2026-10-17 at 12 10 46 PM" src="https://github.com/user-attachments/assets/dbfbea05-75e5-4cdb-91de-1fadd067e3dd" />
+Proyecto: Indicador de disponibilidad de un espacio
+ 
+1. ¿Cuál es el problema?
+ 
+A veces las personas no saben si una salón para estudiar está ocupado o disponible, lo que puede causar interrupciones.
+ 
+2. ¿Quién se beneficiaría de la solución?
+ 
+Los estudiantes y profesores que utilizan espacios para estudiar o trabajar.
+ 
+3. ¿Cómo ayudará el prototipo?
+ 
+Mediante un interruptor que permite señalar manualmente si el espacio está ocupado o disponible. El Arduino recibirá esa información y encenderá una luz roja cuando esté ocupado o una verde cuando esté disponible.
+ Enlace del circuito: (https://www.tinkercad.com/things/eRIaRHKJlew-actividad-1610-salon-de-estudio?sharecode=L1dsZITkQh3N34sBstNOBnA4E0QJtHzjbHW-qvgSwjQ)<img width="479" height="483" alt="Screenshot 2026-10-17 at 12 10 46 PM" src="https://github.com/user-attachments/assets/dbfbea05-75e5-4cdb-91de-1fadd067e3dd" />
 
 
