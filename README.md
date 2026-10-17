@@ -29,4 +29,4 @@ La ruta más corta es Caracas - Valencia.
 - Barquisimeto - Coro - Maracaibo, que son 650 km.
 Intuimos que debía ser más cerca de Barquisimeto a Maracaibo y la ruta iba a ser más corta, ya que era directo, pero resulta que no es así, sino que tuvimos que pasar por Coro para llegar a Maracaibo.
 https://www.tinkercad.com/things/23nXWQj3H0q-circuito-6-leds-con-pulsador?sharecode=Wd0m1EyHrqjemecAVYZmpaCd6ODPNq_ts-5-TB5kOr0
-![image alt]([)](https://github.com/5torojo-Andreina-Evans/5torojo-Andreina-Evans/blob/6ad2cf55dd2cd96039b064eb49d7a45767a66b9a/Circuito%206%20leds%20con%20pulsador%20-%20Tinkercad.pdf)
+![image alt](https://github.com/5torojo-Andreina-Evans/5torojo-Andreina-Evans/blob/6ad2cf55dd2cd96039b064eb49d7a45767a66b9a/Circuito%206%20leds%20con%20pulsador%20-%20Tinkercad.pdf)
