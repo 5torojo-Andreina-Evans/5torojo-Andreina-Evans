@@ -13,10 +13,6 @@ P=an-n(n-1)
 5. Reflexiona: ¿Por qué el precio no aumenta siempre lo mismo? ¿Qué pasaría si el patrón cambiara?
 Porque cada arepa adicional cuesta menos. Hay un descuento por volumen. Si el patrón cambiaría, también cambiara la fórmula y los precios. 
 Actividad 9/10 
-https://www.tinkercad.com/things/64prEKRWheI-circuito-2-leds-interruptor?sharecode=bhM-s7hnKOZMYdHiP4Zy8WzQ28MVlZoqr3we7YXZmOI
-![image alt]((https://github.com/5torojo-Andreina-Evans/5torojo-Andreina-Evans/blob/d34cf79d92deb0a9f574134499ac5f847a464f2c/Circuito%206%20leds%20con%20pulsador%20-%20Tinkercad.pdf)https://www.tinkercad.com/things/23nXWQj3H0q-circuito-6-leds-con-pulsador?sharecode=Wd0m1EyHrqjemecAVYZmpaCd6ODPNq_ts-5-TB5kOr0)
-(https://www.tinkercad.com/things/23nXWQj3H0q-circuito-6-leds-con-pulsador?sharecode=Wd0m1EyHrqjemecAVYZmpaCd6ODPNq_ts-5-TB5kOr0)
-![image alt](https://github.com/5torojo-Andreina-Evans/5torojo-Andreina-Evans/blob/2a87689f874f0bf1b995acf04c8b6ffe874aedbb/Circuito%202%20leds%20interruptor%20-%20Tinkercad.pdf)
 Mapa de rutas
 Caracas – Valencia: 150 km  
 Valencia – Barquisimeto: 200 km  
@@ -32,3 +28,5 @@ Desde Coro: 470 + 180 km = 650 km.
 La ruta más corta es Caracas - Valencia.
 - Barquisimeto - Coro - Maracaibo, que son 650 km.
 Intuimos que debía ser más cerca de Barquisimeto a Maracaibo y la ruta iba a ser más corta, ya que era directo, pero resulta que no es así, sino que tuvimos que pasar por Coro para llegar a Maracaibo.
+https://www.tinkercad.com/things/23nXWQj3H0q-circuito-6-leds-con-pulsador?sharecode=Wd0m1EyHrqjemecAVYZmpaCd6ODPNq_ts-5-TB5kOr0
+![image alt]([)](https://github.com/5torojo-Andreina-Evans/5torojo-Andreina-Evans/blob/6ad2cf55dd2cd96039b064eb49d7a45767a66b9a/Circuito%206%20leds%20con%20pulsador%20-%20Tinkercad.pdf)
