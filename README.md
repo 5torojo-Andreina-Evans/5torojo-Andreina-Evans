@@ -524,7 +524,10 @@ INICIO
 
 FIN
 
-Actividad 30/11/26
+Actividad 30/10/26
 (https://www.tinkercad.com/things/gAM6aC66KSe-control-de-3-servomotores-con-arduino?sharecode=_I8swom52xJJE4A2MYRiK4H6zQGDjZHxVASKiEZt-DY)
 <img width="809" height="578" alt="Screenshot 2026-11-08 at 7 32 24 PM" src="https://github.com/user-attachments/assets/b2c9dbd1-c60e-4ca7-8a5b-4b550a8cffe7" />
 Como funciona el circuito:  El servomotor 1 esta conectado al pin 9 de arduino. Cuando presionamos el pulsador que esta conectado al pin 2, el servomotor gira 180 grados. Cuando lo soltamos gira a 0 grados. El servomotor 2 esta conectado al pin 10 del arduino. Su movimiento depende de la posicion del interruptor deslizante. Ese esta conectado al pin 3. Segun la posicion del interrupor, el servomotor gira a ) grados o a 180 grados. El servomotor 3 esta conectado al pin 11 del arduino. Haze un movimiento automatico desde 0 grados hasta 180, que es continuo. Luego regresa a 0 sin depender del pulsador ni del interrupor
+
+Actividad 13/11/26
+https://www.tinkercad.com/things/elrwdipQbF8-fantastic-bruticus-rottis/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=H6EoCEIbsvThMbmTFXYyw1dB6g8_JpdlgPLl_Zlx2js
