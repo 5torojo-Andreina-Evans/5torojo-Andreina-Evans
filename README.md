@@ -531,3 +531,7 @@ Como funciona el circuito:  El servomotor 1 esta conectado al pin 9 de arduino. 
 
 Actividad 13/11/26
 https://www.tinkercad.com/things/elrwdipQbF8-fantastic-bruticus-rottis/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=H6EoCEIbsvThMbmTFXYyw1dB6g8_JpdlgPLl_Zlx2js
+
+Actividad 20/11/26
+
+https://www.tinkercad.com/things/2sgL2dbuyoW-actividad-201126?sharecode=HIwGYudg3NGC0g3B9ZF2fGSPJFf48oyfSbnWi7ANrpI
